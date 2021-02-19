@@ -5,4 +5,5 @@ Database
 ------------
 * Oracle SQL
 <a href= "https://github.com/alysharobinson/Data-Analysis-for-Digital-Book-Store/blob/main/Relationships.png">
-  <img src="https://github.com/alysharobinson/Data-Analysis-for-Digital-Book-Store/blob/main/Relationships.png"/>
+  <img src="https://github.com/alysharobinson/Data-Analysis-for-Digital-Book-Store/blob/main/Relationships.png"
+       alt= "Relationship Map"/>
