@@ -4,4 +4,4 @@ Data Analysis project to help a fictional digital book store determine they can 
 Database
 ------------
 * Oracle SQL
-(/blob/main/Relationships.png.jpg?raw=true)
+(https://raw.github.com/alysharobinson/Data-Analysis-for-Digital-Book-Store/blob/main/Relationships.png)
